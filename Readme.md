@@ -1,5 +1,13 @@
 # Stack Assignment
 
+**Author Identity:**
+* **Name:** [MOHAMMAD IVAN ANDITA]
+* **NIM / Student ID:** [F1D02510076]
+* **Class:** [A]
+* **Course:** [Data Structures and Algorithm]
+
+---
+
 This project is a from-scratch implementation of the **Stack** data structure using the Java programming language. The project demonstrates how Stacks can be utilized to solve three classic computer science problems.
 
 ## 🚀 Features and Applications
@@ -50,7 +58,7 @@ Ensure that you have the **Java Development Kit (JDK)** installed on your machin
 
 When the program is executed, the expected output in the terminal is as follows:
 
-```text
+```
 ===== STACK ASSIGNMENT =====
 
 1. CHECKING PARENTHESIS
